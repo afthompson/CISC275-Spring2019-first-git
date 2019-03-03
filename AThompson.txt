@@ -1,0 +1,5 @@
+Andrew Thompson 
+
+username: afthompson
+
+repository: https://github.com/afthompson/CISC275-Spring2019-first-git
