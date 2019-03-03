@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CISC275-Fall2018-first-git
 1. Create java files to make this code compile and run.
 
@@ -10,3 +11,6 @@
 
 3. Can you spot the comparator constructor call? Where is the class definition for the comparator?
 	-
+=======
+# CISC275-Spring2019-first-git
+>>>>>>> 05c5a88b6a50b69b1e548faf9c9ffae51da89075
