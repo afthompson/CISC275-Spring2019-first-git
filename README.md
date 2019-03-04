@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 # CISC275-Fall2018-first-git
 1. Create java files to make this code compile and run.
+FILES ARE LOCATED IN /Lab03/src/
 
 2. What five objects are created in the main?
 New ArrayList<Dog> called dogs created in line 10, 
