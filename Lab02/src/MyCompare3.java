@@ -1,5 +1,5 @@
 //Andrew Thompson
-//CISC275081
+//CISC275081 Lab 02
 //Due 3/3/2019
 
 //This file was provided an unaltered
